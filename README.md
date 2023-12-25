@@ -16,4 +16,4 @@ https://github.com/usaketh/ResumeRocket/assets/64151405/878b5649-30ca-4d24-b01c-
 4. User can add clickable links like live links for projects etc.
 5. User can download the resume they have created on ResumeRocket in .pdf format with a single click.
 
-Build your resume today:
+Build your resume today: https://resume-rocket.vercel.app/
