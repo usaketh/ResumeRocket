@@ -10,10 +10,10 @@ https://github.com/usaketh/ResumeRocket/assets/64151405/2a339996-306d-46ec-86a7-
 https://github.com/usaketh/ResumeRocket/assets/64151405/878b5649-30ca-4d24-b01c-7f9558d405fc
 
 # Features
-1. Has all the important sections like Education, Experience, Projects, Achievements etc.
-2. Clean and Easy to use UI.
-3. User has options to choose from 5 colors for resume.
-4. User can add clickable links like live links for projects etc.
-5. User can download the resume they have created on ResumeRocket in .pdf format with a single click.
+1. Has all the important sections like Education, Experience, Projects, Achievements etc. 📚🌟
+2. Clean and Easy to use UI. 🧹💻
+3. User has options to choose from 5 colors for the resume. 🌈🎨
+4. User can add clickable links like live links for projects, etc. 🔗🚀
+5. User can download the resume they have created on ResumeRocket in .pdf format with a single click. 📥🚀
 
 Build your resume today: https://resume-rocket.vercel.app/
